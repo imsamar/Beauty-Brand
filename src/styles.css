@@ -82,6 +82,19 @@ li {
   text-decoration: none;
   display: inline;
 }
+.menu {
+  position: absolute;
+  top: 33px;
+  display: none;
+}
+
+.hoverzone {
+  position: relative;
+}
+
+.hoverzone:hover .menu {
+  display: block;
+}
 .form-select {
   border-radius: 10px;
   border: 1px solid #dc74ba;
@@ -370,4 +383,71 @@ footer {
 }
 .contacts {
   color: #000;
+}
+
+.my-favorite-garments {
+  border-radius: 30px;
+  max-width: 1519.2px;
+  display: block;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #fcf6ea;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 30px;
+}
+.my-stuff {
+  font-weight: 300px;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fcecec;
+  padding: 7px 0 7px;
+  border-radius: 10px;
+  color: #c60c88;
+  padding: 5px 10px;
+  border-radius: 50px;
+  border: 1px solid white;
+  display: block;
+  margin: 0 auto;
+}
+.things {
+  margin-top: 30px;
+}
+.my-p {
+  margin-left: 0px;
+  border-radius: 30px;
+}
+.my-favorite-perfumes {
+  padding: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 1450px;
+  border-radius: 20px;
+}
+.Ps {
+  padding: 0px 0px 0px 0px;
+  display: block;
+  margin: 0 auto;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.Ps6 {
+  padding: 0px 0px 0px 0px;
+  display: block;
+  margin: 0 auto;
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.titr {
+  margin-left: 80px;
 }
