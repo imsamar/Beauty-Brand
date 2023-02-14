@@ -27,7 +27,7 @@ body {
 .logo {
   margin-top: -10px;
 }
-.skinC {
+.perFU {
   margin-left: 150px;
   background: #fcecec;
   padding: 7px 0 7px;
@@ -39,7 +39,7 @@ body {
   padding: 7px 0 7px;
   border-radius: 10px;
 }
-.perFU {
+.skinC {
   margin-left: 20px;
   background: #fcecec;
   padding: 7px 0 7px;
@@ -121,7 +121,6 @@ li {
   color: #fff;
   background-color: #be0380;
   border: 1px solid #bd1785;
-  text-decoration: none;
 }
 
 .banner {
@@ -450,6 +449,9 @@ footer {
 }
 .titr {
   margin-left: 80px;
+  color: #6c6c6c;
+  font-size: 20px;
+  font-weight: bold;
 }
 .welcome {
   font-weight: 200px;
@@ -457,7 +459,7 @@ footer {
   text-align: center;
   margin-top: 15px;
   margin-bottom: 5px;
-  background: #FFFBF8
+  background: #fffbf8;
   padding: 7px 0 7px;
   border-radius: 10px;
   color: #c60c88;
@@ -467,4 +469,46 @@ footer {
   max-width: 390px;
   display: block;
   margin: 0 auto;
+}
+.tip1 {
+  font-size: 17px;
+  font-weight: bold;
+  color: #ea2aaa;
+  padding-top: 90px;
+  font-family: "Quicksand", sans-serif;
+}
+.tip2 {
+  font-size: 17px;
+  font-weight: bold;
+  color: #f25f6e;
+  padding-top: 90px;
+  font-family: "Quicksand", sans-serif;
+}
+.tip3 {
+  font-size: 17px;
+  font-weight: bold;
+  color: #d341b8;
+  padding-top: 90px;
+  font-family: "Quicksand", sans-serif;
+}
+.tip4 {
+  font-size: 17px;
+  font-weight: bold;
+  color: #f8537f;
+  padding-top: 90px;
+  font-family: "Quicksand", sans-serif;
+}
+.tip5 {
+  font-size: 17px;
+  font-weight: bold;
+  color: #be4278;
+  padding-top: 90px;
+  font-family: "Quicksand", sans-serif;
+}
+.tip6 {
+  font-size: 17px;
+  font-weight: bold;
+  color: #f442b9;
+  padding-top: 90px;
+  font-family: "Quicksand", sans-serif;
 }

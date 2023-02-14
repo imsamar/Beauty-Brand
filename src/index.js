@@ -1,5 +1,3 @@
-alert("Happy Valentine's Day,be gentle with your skin...");
-
 function formatDate(timestamp) {
   let date = new Date(timestamp);
   let hours = date.getHours();
